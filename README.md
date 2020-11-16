@@ -1,13 +1,13 @@
 ### Hi, I'm Bichi, a current master student at [TU Delft](https://www.tudelft.nl/). 👋
+You can reach me through *b.zhang-12@student.tudelft.nl* or my [LinkedIn](https://www.linkedin.com/in/%E5%BC%BC%E5%BC%9B-%E5%BC%A0-44814a190/).
 
-
-## My research interests lies on...
+## My research interests lie on...
 - Image/Audio signal processing
 - Camera-LiDAR sensor fusion
 - Applications of machine learning and deep learning
 - Autonomous vehicles
 - ...
-- ... and eager to learn new stuffs!
+- ... and eager to learn new stuffs! ⚡⚡⚡
 
 ---
 
