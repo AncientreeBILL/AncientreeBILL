@@ -9,7 +9,7 @@ You can reach me through *b.zhang-12@student.tudelft.nl* or my [LinkedIn](https:
 - ...
 - ... and eager to learn new stuffs! ⚡⚡⚡
 
----
+
 
 ## Some Mini-projects
 
