@@ -15,7 +15,7 @@ You can reach me through *b.zhang-12@student.tudelft.nl* or my [LinkedIn](https:
 
 <!-- BLOG-POST-LIST:START -->
 - [Image Mosaic](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Abolation Analysis: A Reproduction Project on Neural Networks](https://github.com/AncientreeBILL/TU-Delft-Deep-Learning-CS4240-Reproducibility-Project---Between-Class-Learning-for-Image-Classifica)
+- [Ablation Analysis: A Reproduction Project on Neural Networks](https://github.com/AncientreeBILL/TU-Delft-Deep-Learning-CS4240-Reproducibility-Project---Between-Class-Learning-for-Image-Classifica)
 <!-- BLOG-POST-LIST:END -->
 
 
