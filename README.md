@@ -7,7 +7,7 @@ You can reach me via *b.zhang-12@student.tudelft.nl* or my [LinkedIn](https://ww
 - Applications of machine learning and deep learning
 - Autonomous vehicles
 - ...
-- ... and eager to learn new stuffs! ⚡⚡⚡
+- ... and I'm eager to learn new stuffs! ⚡⚡⚡
 
 
 
