@@ -15,7 +15,7 @@ You can reach me via *Bichyzhang@gmail.com* or my [LinkedIn](https://www.linkedi
 ## Some Mini-projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Mosaic](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Image Mosaic](https://github.com/AncientreeBILL/Image-Mosaic)
 - [Ablation Analysis: A Reproduction Project on Neural Networks](https://github.com/AncientreeBILL/TU-Delft-Deep-Learning-CS4240-Reproducibility-Project---Between-Class-Learning-for-Image-Classifica)
 <!-- BLOG-POST-LIST:END -->
 
