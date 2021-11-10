@@ -3,9 +3,8 @@ You can reach me via *Bichyzhang@gmail.com* or my [LinkedIn](https://www.linkedi
 I am also creating a new [webpage](https://ancientreebill.github.io/) of myself! It is now a very simple version but I am actively enriching and improving it.
 
 ## My research interests lie on...
-- SLAM
+- SLAM and sensor calibration/fusion
 - Image/Audio signal processing
-- Camera-LiDAR sensor fusion
 - Applications of machine learning and deep learning
 - Autonomous systems
 - ...
